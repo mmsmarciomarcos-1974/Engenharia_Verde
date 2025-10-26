@@ -28,23 +28,5 @@ Scripts para testes de medição de energia e para a geração de gráficos a pa
 
 * `aula182.py`: Script de apoio ou exemplo utilizado durante a disciplina.
 
-## 💡 Como Utilizar
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/mmsmarciomarcos-1974/Engenharia_verde.git](https://github.com/mmsmarciomarcos-1974/Engenharia_verde.git)
-    cd Engenharia_verde
-    ```
-
-2.  **Instale as dependências** (Você pode precisar listar quais são, como `pandas`, `matplotlib`, `codecarbon`, etc.):
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Nota: Se você não tiver um `requirements.txt`, pode remover esta seção ou listar as bibliotecas manualmente).*
-
-3.  **Execute um script de teste:**
-    ```bash
-    python teste-energia.py
-    ```
 
     GIT em atualização, conforme disponibilidade
