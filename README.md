@@ -16,6 +16,10 @@ Scripts focados em medir o custo computacional de algoritmos específicos, conhe
 
 * `cpu_estimada_fibonacci`: Estima o consumo de CPU/energia ao calcular a sequência de Fibonacci.
 * `cpu_estimada_numeros_primos`: Estima o consumo ao encontrar números primos.
+* `leitura-consumo-p`: Leitura de um arquivo no formato CSV que tem dados de consumo energético e ao mesmo tempo mede o seu consumo, contendo os pacotes Python.
+* `leitura-consumo-m`: Leitura de um arquivo no formato CSV que tem dados de consumo energético e ao mesmo tempo mede o seu consumo, via código-fonte sem pacotes auxiliares.
+* `gerador_massa`: Gera dados ficticios dos programas acima (Leitura-consumo-p e Leitura-consumo-m), utilizando o pacote Faker, protegendo dados sensiveis, pensando na LGPD.
+
 
 ### 2. Testes Gerais e Visualização
 
@@ -26,7 +30,7 @@ Scripts para testes de medição de energia e para a geração de gráficos a pa
 
 ### 3. Outros
 
-* `aula182.py`: Script de apoio ou exemplo utilizado durante a disciplina.
+* `aula182.py`: Programa aleatorio de exemplo, NÃO necessariamente relacionado a Disciplina.
 
 
     GIT em atualização, conforme disponibilidade
